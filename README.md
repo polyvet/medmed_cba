@@ -1,4 +1,4 @@
-# Cost–Benefit Analysis (CBA) Shiny App for Medical Mediation
+# Cost–Benefit Analysis Shiny App for Medical Mediation
 
 This repository contains a single-file [Shiny](https://shiny.posit.co/) application (`CBA_medmed_app.R`) for estimating the economic and time savings from using mediation instead of litigation in medical malpractice disputes. The app implements a stochastic simulation model with user-customizable cost, duration, and uptake parameters.
 
@@ -7,7 +7,6 @@ This repository contains a single-file [Shiny](https://shiny.posit.co/) applicat
 - **Interactive interface** for scenario setup and results visualization
 - **Stochastic simulation** using triangular distributions and sigmoid uptake modeling
 - **Estimates** both monetary (NPV) and time savings
-- **Configurable** for high-, middle-, and low-income country scenarios
 
 ## Usage
 
