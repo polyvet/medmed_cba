@@ -16,3 +16,10 @@ This repository contains a single-file [Shiny](https://shiny.posit.co/) applicat
 
    ```r
    install.packages(c("shiny", "ggplot2", "triangle", "reshape2"))
+
+## Quick Start
+
+1. Open R or RStudio and set your working directory to the folder with `CBA_medmed_app.R`.
+2. Launch the app with:
+   ```r
+   shiny::runApp("CBA_medmed_app.R")
