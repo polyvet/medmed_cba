@@ -119,6 +119,6 @@ is open, users may replace them with other parametric distributions or adapt the
 comparator when internally consistent pathway-specific cost and duration data
 are available.
 
-## AI-assisted development and editing
+## Acknowledgment
 
-OpenAI’s ChatGPT was used during the revision process to assist with editing, restructuring, documenting, and checking the R/Shiny application and reproducible analysis code, as well as with language refinement of the associated manuscript and supplementary materials. All model assumptions, methodological decisions, code, analyses, and reported outputs were reviewed and verified by the authors, who take full responsibility for the final work.
+OpenAI’s ChatGPT was used to assist with the final editing, organisation, documentation, and checking of the R functions and scripts, as well as the preparation of this GitHub repository. All code and outputs were reviewed and verified by the authors.
