@@ -1,0 +1,4 @@
+"Scenario","Min_Mediation_Cost_USD","Mode_Mediation_Cost_USD","Max_Mediation_Cost_USD","Min_Trial_Cost_USD","Mode_Trial_Cost_USD","Max_Trial_Cost_USD","Min_Mediation_Time_Months","Mode_Mediation_Time_Months","Max_Mediation_Time_Months","Min_Trial_Time_Months","Mode_Trial_Time_Months","Max_Trial_Time_Months","Initial_Mediation_Resolution_Share","Final_Mediation_Resolution_Share","Logistic_Steepness_k","Currency","Price_Year"
+"High-income",1000,3000,6000,5000,15000,40000,1,3,6,6,18,36,0.15,0.75,1,"USD",2014
+"Middle-income",500,1200,2500,3000,8000,20000,1,4,8,12,30,48,0.1,0.6,0.8,"USD",2014
+"Low-income",200,500,1000,1000,4000,10000,1,6,12,18,36,72,0.05,0.35,0.6,"USD",2014
